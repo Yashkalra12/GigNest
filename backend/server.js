@@ -43,11 +43,12 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: 'https://evoting-mern-frontend.vercel.app', 
-    methods: ['GET', 'POST', 'PUT', 'DELETE'], // Allow only GET, POST, PUT, and DELETE requests
-    credentials: true, // Allow credentials (cookies, authorization headers)
+    origin: 'https://gig-nest.vercel.app', // Allow requests from this origin
+    methods: ['GET', 'POST', 'PUT', 'DELETE'], // Allow specified methods
+    credentials: true, // Enable cookies and authorization headers
   })
 );
+
 
 
 const connect = async () => {
