@@ -24,7 +24,7 @@ app.use(cookieParser());
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://gig-verse.vercel.app",
+  "https://gig-nest-yashkalra12s-projects.vercel.app/",
 ];
 
 app.use(
