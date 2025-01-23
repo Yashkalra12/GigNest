@@ -1,6 +1,3 @@
-Here's your polished **`README.md`** file for **GigNest**:
-
-```markdown
 # GigNest - Your Ultimate Freelance Marketplace Platform
 
 Ever wondered if you could monetize your skills while sitting comfortably at home? Or thought about hiring a freelancer to handle your small tasks? We've got the perfect solution for you.  
