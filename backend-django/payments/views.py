@@ -5,7 +5,6 @@ from rest_framework.response import Response
 from rest_framework import status
 from .models import Payment
 from django.conf import settings
-from django.http import JsonResponse
 
 # Set up Razorpay instance
 instance = razorpay.Client(auth=(settings.RAZORPAY_KEY_ID, settings.RAZORPAY_KEY_SECRET))
