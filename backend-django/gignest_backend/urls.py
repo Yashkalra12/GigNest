@@ -1,5 +1,10 @@
+# Congratulations Yash So Proud of you
 from django.contrib import admin
 from django.urls import path, include
+from django.http import HttpResponse
+
+def home(request):
+    return HttpResponse("Welcome to GigNest!")
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -10,4 +15,6 @@ urlpatterns = [
     path('api/conversations/', include('conversations.urls')),
     path('api/reviews/', include('reviews.urls')),
     path('api/payment/', include('payments.urls')),
+
+    path('', home, name='home'),
 ]
