@@ -43,11 +43,9 @@ INSTALLED_APPS = [
     'users',
     'gigs',
     'conversations',
-    'messages',
     'orders',
     'reviews',
     'payments',
-    'authapp',
 ]
 
 MIDDLEWARE = [
