@@ -4,7 +4,7 @@ Ever wondered if you could monetize your skills while sitting comfortably at hom
 
 <p align="center"><strong><font size="+5">Presenting GigNest!</font></strong></p>  
 
-**GigNest** is a cutting-edge freelance marketplace platform designed to connect talented freelancers with clients who need high-quality services. Whether you're a freelancer looking to showcase your skills and earn from the comfort of your home or a client seeking skilled professionals to complete your projects, GigNest has you covered.
+This is a cutting-edge freelance marketplace platform designed to connect talented freelancers with clients who need high-quality services. Whether you're a freelancer looking to showcase your skills and earn from the comfort of your home or a client seeking skilled professionals to complete your projects, GigNest has you covered.
 
 ---
 
